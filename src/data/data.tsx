@@ -6,10 +6,10 @@ import {
   SkillsProps,
   TimelineProps,
 } from "../types/types";
-export const URL = "https://awesome-portfolio.piyushmehta.com";
-export const NAME = "Piyush Mehta";
+export const URL = "https://preethim.vercel.app";
+export const NAME = "Preethi Mohan";
 
-export const SECTIONS = ["Home", "Experience", "Projects", "Skills"];
+export const SECTIONS = ["Home", "Experiences", "hands on code", "Skills"];
 export const HERO_IMAGE = "https://picsum.photos/id/1005/1600/1400";
 export const CTA_TEXT = "Know More";
 export const MENU: MenuProps[] = [
